@@ -20,8 +20,6 @@ const Footer: React.FC = () => {
             <h4 className="text-slate-900 text-xs font-bold uppercase tracking-widest mb-6">Architecture</h4>
             <ul className="space-y-4 text-slate-500 text-xs font-medium uppercase tracking-wider">
               <li><a href="#problem" className="hover:text-emerald-600 transition-colors">The Problem</a></li>
-              <li><a href="#demo" className="hover:text-emerald-600 transition-colors">Live Demo</a></li>
-              <li><a href="#testimonials" className="hover:text-emerald-600 transition-colors">Testimonials</a></li>
             </ul>
           </div>
 

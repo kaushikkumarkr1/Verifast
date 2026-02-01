@@ -24,8 +24,6 @@ const Navbar: React.FC<NavbarProps> = ({ isScrolled }) => {
 
         <div className="hidden md:flex items-center gap-10 text-[11px] font-bold tracking-[0.2em] text-slate-500 uppercase">
           <a href="#problem" className="hover:text-emerald-600 transition-colors">Problem</a>
-          <a href="#demo" className="hover:text-emerald-600 transition-colors">Demo</a>
-          <a href="#testimonials" className="hover:text-emerald-600 transition-colors">Testimonials</a>
         </div>
 
         <div className="flex items-center gap-4">
