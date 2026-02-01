@@ -13,7 +13,7 @@ const WaitlistSection: React.FC = () => {
     const formData = new FormData(e.currentTarget as HTMLFormElement);
 
     try {
-      const response = await fetch("https://formsubmit.co/ajax/krkaushikkumar@zohomail.com", {
+      const response = await fetch("https://formsubmit.co/el/vibuye", {
         method: "POST",
         body: formData,
         headers: {
